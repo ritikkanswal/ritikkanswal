@@ -60,4 +60,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ritikkanswal&show_icons=true" alt="shreyaprasad1209" /> </p>
+</p><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ritikkanswal&show_icons=true" alt="shreyaprasad1209" /> </p>
+
+</p><p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikkanswal&show_icons=true&locale=en&layout=compact" alt="shreyaprasad1209" /> </p>

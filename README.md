@@ -1,4 +1,4 @@
-### Hi there, I'm Ritik Kanswal 👋
+<h1 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Ritik Kanswal </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikkanswal" alt="ritikkanswal" /> </p>
 
@@ -60,6 +60,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</p><p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikkanswal&show_icons=true&locale=en&layout=compact" alt="ritikkanswal" /> 
+## 📊 My Github Stats
+</p><p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikkanswal&show_icons=true&locale=en&layout=compact" alt="ritikkanswal" /></p>
+
+## 🏁 Languages Used
 </p><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ritikkanswal&show_icons=true" alt="ritikkanswal" /> </p>
-</p>

@@ -47,7 +47,7 @@ I'm a Computer Science Engineering student at Jaypee University of Information T
 You can find me at: [Linkedin](https://www.linkedin.com/in/ritikkanswal/) | [Email](mailto:ritik.kanswal.5@gmail.com) | [Codechef](https://www.codechef.com/users/ritikkanswal) | [Leetcode](https://leetcode.com/ritikkanswal/)
 
 <!--
-**utkarshkanswal/utkarshkanswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ritikkanswal/ritikkanswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -60,6 +60,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</p><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ritikkanswal&show_icons=true" alt="shreyaprasad1209" /> </p>
-
-</p><p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikkanswal&show_icons=true&locale=en&layout=compact" alt="shreyaprasad1209" /> </p>
+</p><p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikkanswal&show_icons=true&locale=en&layout=compact" alt="ritikkanswal" /> 
+</p><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ritikkanswal&show_icons=true" alt="ritikkanswal" /> </p>
+</p>

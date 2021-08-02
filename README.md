@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikkanswal" alt="ritikkanswal" /> </p>
 
-I'm a Electronics and Communication student at National Institute of Technology Meghalaya. I love to solve algorithm problem. I have a good Experience of Data Structures and Algorithm .So I have a couple of repositories with experiments and material that I've used in my learning process.
+I'm a Computer Science Engineering student at Jaypee University of Information Technology. I love to solve algorithm problem. I have a good Experience of Data Structures and Algorithm .So I have a couple of repositories with experiments and material that I've used in my learning process.
 
 ### What I'm up to right now
 

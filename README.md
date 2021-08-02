@@ -1,4 +1,4 @@
-### Hi there, I'm Ritik Kanswal 👋
+### <h1 align="center">Hi there, I'm Ritik Kanswal 👋<h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikkanswal" alt="ritikkanswal" /> </p>
 

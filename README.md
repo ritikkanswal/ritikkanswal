@@ -93,4 +93,7 @@ Here are some ideas to get you started:
 ## 🏁 Languages Used
 </p><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ritikkanswal&show_icons=true" alt="ritikkanswal" /> </p>
 
+## 🔥 Streak Stats
+</p><p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikkanswal&theme=dark)](https://git.io/streak-stats" alt="ritikkanswal" /> </p>
+
 ---

@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ⚡ Portfolio <a href="https://ritikkanswal.netlify.app/"> Visit Now </a>:
+### ⚡ Portfolio <a href="https://ritikkanswal.me"> Visit Now </a>:
 
 
 

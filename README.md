@@ -2,43 +2,35 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikkanswal" alt="ritikkanswal" /> </p>
 
-I'm a Computer Science Engineering student at Jaypee University of Information Technology. I love to solve algorithm problem. I have a good Experience of Data Structures and Algorithm .So I have a couple of repositories with experiments and material that I've used in my learning process.
+I am a driven and passionate individual currently pursuing my B.Tech in Computer Science at Jaypee University of Information Technology. With experience as a Software Developer Intern at Spinny, I have honed my skills in backend development and database management. I thrive on solving complex problems and actively participate in coding challenges on platforms like Hackerrank and Leetcode.
 
 ### What I'm up to right now
 
-- Doing Competitive Programming on Codechef , HackeEarth and Leetcode.
-- Learning Data Structure and Algorithms
-- Come in top 0.04% top Programmer on Codechef .
-- Having some project on Backend and Frontend.
-- Solving Problems on Leetcode. You can Find me [here](https://leetcode.com/ritikkanswal/)
+- Pursuing B.Tech in Computer Science at Jaypee University of Information Technology.
+- Working as a Software Developer Intern at Spinny, focusing on backend development for an employee access management system.
+- Experienced in database design, utilizing technologies like MySQL, and deployment using Docker.
+- Completed online courses in areas such as Data Structures, Algorithms, AWS, Git/Github, and Operating Systems.
+- Actively solving programming problems on platforms like Hackerrank, Leetcode, and Codechef, with notable achievements and high rankings.
+- Maintaining an active presence on platforms like Github, LinkedIn, and GeeksForGeeks to showcase skills and projects.
 
-### Competitive Programming Profiles
-[Codechef Profile](https://www.codechef.com/users/ritikkanswal)
+### Programming Profiles
+- [Codechef Profile](https://www.codechef.com/users/ritikkanswal)
 
-[Leetcode Profile](https://leetcode.com/ritikkanswal/)
+- [Leetcode Profile](https://leetcode.com/ritikkanswal/)
 
-[Hackerrank Profile](https://www.hackerrank.com/ritikkanswal)
-
-[HackeEarth Profile](https://www.hackerearth.com/@ritikkanswal)
-
-### My recent activity
-
-<details>
-  <summary>Click me!</summary>
-
--🔭 Working on Backend Technology (Django,Django-rest) .
-
-</details>
+- [Hackerrank Profile](https://www.hackerrank.com/ritikkanswal)
 
 ### My previous work
 
-<details>
-  <summary>Click me!</summary>
 
-- Virtual Interned at JP Morgan Chase & Co. , Establising data and visualization .
-- Created a Telegram bot which provides the Google meet Links of all Upcoming Classes and Labs.[this repository](https://github.com/ritikkanswal/alert_telegram_bot).
-- Check My Portfolio [Click Here](https://ritikkanswal.github.io/My-Portfolio/)
-</details>
+
+- Worked upon spinny internal project employee access management system
+- Created the project from scratch from database designing to deployment
+- Used Mysql Database for recording employees data
+- Used Celery as a distributed message passing for asynchronous task
+- Used Opensource api’s and selenium for creating python script.
+- Used Docker for creating the image of project
+- Used Jenkins to deploy the project on AWS.
 
 <!--
 **ritikkanswal/ritikkanswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
